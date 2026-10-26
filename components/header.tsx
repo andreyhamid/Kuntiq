@@ -1,16 +1,19 @@
-﻿"use client";
+"use client";
+
+import { LanguageContent, LanguageSelector } from "./language";
+
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
 const links = [
-  { href: "/", label: "Inicio" },
+  { href: "/", label: "Origen" },
   { href: "/experiencias", label: "Experiencia" },
   { href: "/tienda", label: "Tienda" },
   { href: "/regalos", label: "Regalos" },
-  { href: "/merch", label: "Merch" },
-  { href: "/recetas", label: "Recetas" },
+  { href: "/merch", label: "Merchandising" },
+  { href: "/academy", label: "Academy" },
   { href: "/contacto", label: "Contacto" },
 ];
 
@@ -30,13 +33,14 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="header" onKeyDown={(event) => {
+    <LanguageContent><header className="header" onKeyDown={(event) => {
       if (event.key === "Escape" && isOpen) {
         setOpenPath(null);
         toggleRef.current?.focus();
       }
     }}>
       <Link href="/" className="logo" onClick={() => setOpenPath(null)}>KUNTIQ</Link>
+      <LanguageSelector />
       <button
         ref={toggleRef}
         type="button"
@@ -59,7 +63,7 @@ export default function Header() {
           >{label}</Link>
         ))}
       </nav>
-    </header>
+    </header></LanguageContent>
   );
 }
 

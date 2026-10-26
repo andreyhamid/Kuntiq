@@ -1,4 +1,7 @@
-﻿"use client";
+"use client";
+
+import { LanguageContent } from "./language";
+
 
 import Link from "next/link";
 import { useState } from "react";
@@ -8,7 +11,7 @@ import ProductImage from "./productimage";
 export default function ProductRibbon() {
   const [paused, setPaused] = useState(false);
   return (
-    <section className={`home-products${paused ? " ribbon-paused" : ""}`} aria-labelledby="home-products-title">
+    <LanguageContent><section className={`home-products${paused ? " ribbon-paused" : ""}`} aria-labelledby="home-products-title">
       <div className="section-heading"><div><span className="eyebrow">DE NUESTRA TIENDA</span><h2 id="home-products-title">Un mundo de cacao.</h2></div><div className="ribbon-actions"><button className="ribbon-pause" type="button" aria-pressed={paused} onClick={() => setPaused(!paused)}>{paused ? "Reanudar movimiento" : "Pausar movimiento"}</button><Link href="/tienda" className="text-link">Ver toda la tienda →</Link></div></div>
       <div className="ribbon-window">
         <div className="ribbon-track">
@@ -19,6 +22,6 @@ export default function ProductRibbon() {
           ))}
         </div>
       </div>
-    </section>
+    </section></LanguageContent>
   );
 }

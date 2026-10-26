@@ -1,3 +1,5 @@
+
+import { LanguageContent } from "../../../components/language";
 ﻿import Link from "next/link";
 import { notFound } from "next/navigation";
 import ProductImage from "../../../components/productimage";
@@ -12,7 +14,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   const product = products.find((item) => item.slug === slug);
   if (!product) notFound();
   return (
-    <main id="contenido" className="shop-page">
+    <LanguageContent><main id="contenido" className="shop-page">
       <Link href="/tienda" className="back-link">← Volver a la tienda</Link>
       <article className="product-detail">
         <ProductImage src={product.image} name={product.name} />
@@ -25,6 +27,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           <Link href="/contacto" className="product-button">Consultar disponibilidad</Link>
         </div>
       </article>
-    </main>
+    </main></LanguageContent>
   );
 }

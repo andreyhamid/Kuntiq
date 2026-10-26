@@ -1,4 +1,6 @@
-﻿const socials = [
+
+import { LanguageContent } from "./language";
+const socials = [
   { name: "TikTok", path: "M16 3h4c.3 2.5 1.8 4 4 4.5v4a10 10 0 0 1-4-1.3V18a7 7 0 1 1-7-7h1v4h-1a3 3 0 1 0 3 3V3Z" },
   { name: "Facebook", path: "M18 5h4V1h-4c-4 0-6 2.5-6 6v3H8v4h4v12h5V14h4l1-4h-5V7c0-1.3.5-2 1-2Z" },
   { name: "Instagram", path: "" },
@@ -6,7 +8,7 @@
 
 export default function Footer() {
   return (
-    <footer className="footer">
+    <LanguageContent><footer className="footer">
       <h3>KUNTIQ</h3>
       <p>Cacao, café y experiencias sensoriales.</p>
       <p className="footer-location">Tienda virtual · San Miguel, Lima, Perú</p>
@@ -21,6 +23,6 @@ export default function Footer() {
         ))}
       </div>
       <p>© {new Date().getFullYear()} KUNTIQ.</p>
-    </footer>
+    </footer></LanguageContent>
   );
 }

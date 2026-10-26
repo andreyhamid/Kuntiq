@@ -1,6 +1,5 @@
-﻿import Link from "next/link";
-import { recipes } from "../../data/recipes";
-export const metadata = { title: "Recetas con cacao | KUNTIQ", description: "Prepara chocolate de taza, brownies y trufas con cacao." };
+﻿import { permanentRedirect } from "next/navigation";
+
 export default function RecetasPage() {
-  return <main id="contenido" className="recipes-page"><div className="shop-heading"><span>KUNTIQ · RECETAS</span><h1>El cacao también se crea.</h1><p>De una taza caliente a un postre para compartir. Elige una receta y empieza.</p></div><nav className="recipe-shortcuts" aria-label="Ir a una receta">{recipes.map((recipe) => <a key={recipe.id} href={`#${recipe.id}`}>{recipe.name} ↓</a>)}</nav><div className="recipe-list">{recipes.map((recipe, index) => <article id={recipe.id} key={recipe.id} className="recipe-card"><div className="recipe-intro"><span className="recipe-number">0{index+1}</span><span className="eyebrow">{recipe.tag}</span><h2>{recipe.name}</h2><div className="recipe-meta"><span>{recipe.time}</span><span>{recipe.servings}</span></div><p>Prepáralo con <Link href={`/tienda/${recipe.slug}`}>{recipe.product} →</Link></p></div><div className="recipe-body"><div><h3>Ingredientes</h3><ul>{recipe.ingredients.map((ingredient) => <li key={ingredient}>{ingredient}</li>)}</ul></div><div><h3>Preparación</h3><ol>{recipe.steps.map((step) => <li key={step}>{step}</li>)}</ol></div><p className="recipe-tip"><strong>Un detalle que ayuda:</strong> {recipe.tip}</p></div></article>)}</div></main>;
+  permanentRedirect("/academy");
 }

@@ -1,7 +1,9 @@
+
+import { LanguageContent } from "../../components/language";
 ﻿
 export default function OrigenPage() {
   return (
-    <main id="contenido" style={{ padding: "60px 7%" }}>
+    <LanguageContent><main id="contenido" style={{ padding: "60px 7%" }}>
       <h1>Nuestro origen</h1>
 
       <p>
@@ -15,7 +17,7 @@ export default function OrigenPage() {
         Queremos compartir los sabores y aromas
         del cacao y café peruano.
       </p>
-    </main>
+    </main></LanguageContent>
   );
 }
 

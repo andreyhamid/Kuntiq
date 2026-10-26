@@ -1,5 +1,6 @@
 ﻿
 import "./globals.css";
+import { LanguageProvider, LanguageContent } from "../components/language";
 import Header from "../components/header";
 import Footer from "../components/footer";
 import WhatsAppButton from "../components/whatsappbutton";
@@ -17,13 +18,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body>
+      <body><LanguageProvider><LanguageContent>
         <a className="skip-link" href="#contenido">Saltar al contenido</a>
         <Header />
         {children}
         <Footer />
         <WhatsAppButton />
-      </body>
+      </LanguageContent></LanguageProvider></body>
     </html>
   );
 }

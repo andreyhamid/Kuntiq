@@ -1,4 +1,7 @@
-﻿"use client";
+"use client";
+
+import { LanguageContent } from "./language";
+
 
 
 import { useEffect, useState } from "react";
@@ -29,7 +32,7 @@ export default function HomeBanner() {
     return () => window.clearInterval(timer);
   }, [paused, hovered, focused, reducedMotion]);
   return (
-    <section className="home-banner" aria-label="Paisajes y origen de KUNTIQ" aria-roledescription="carrusel" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} onFocusCapture={() => setFocused(true)} onBlurCapture={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setFocused(false); }}>
+    <LanguageContent><section className="home-banner" aria-label="Paisajes y origen de KUNTIQ" aria-roledescription="carrusel" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} onFocusCapture={() => setFocused(true)} onBlurCapture={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setFocused(false); }}>
       <div className="banner-photos" aria-hidden="true">
         {slides.map((slide, index) => <div key={slide.image} className={`banner-photo${index === current ? " is-active" : ""}`} style={{ backgroundImage: `url("${slide.image}")`, backgroundPosition: slide.position }} />)}
       </div>
@@ -49,7 +52,7 @@ export default function HomeBanner() {
           {!reducedMotion && <button type="button" onClick={() => setPaused(!paused)} aria-label={paused ? "Reanudar carrusel" : "Pausar carrusel"}>{paused ? "▶" : "Ⅱ"}</button>}
         </div>
       </div>
-    </section>
+    </section></LanguageContent>
   );
 }
 

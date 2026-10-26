@@ -1,10 +1,12 @@
+
+import { LanguageContent } from "../../components/language";
 ﻿
 import ProductCard from "../../components/productcard";
 import { products } from "../../data/products";
 
 export default function TiendaPage() {
   return (
-    <main id="contenido" className="shop-page">
+    <LanguageContent><main id="contenido" className="shop-page">
       <div className="shop-heading">
         <span>KUNTIQ · PRODUCTOS</span>
 
@@ -23,7 +25,7 @@ export default function TiendaPage() {
           />
         ))}
       </div>
-    </main>
+    </main></LanguageContent>
   );
 }
 
