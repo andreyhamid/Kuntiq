@@ -1,4 +1,4 @@
-﻿
+
 import "./globals.css";
 import { LanguageProvider, LanguageContent } from "../components/language";
 import Header from "../components/header";
@@ -6,9 +6,9 @@ import Footer from "../components/footer";
 import WhatsAppButton from "../components/whatsappbutton";
 
 export const metadata = {
-  title: "KUNTIQ | Cacao, Café y Experiencias",
+  title: "Agromia | Cacao, Café y Experiencias",
   description:
-    "Descubre el mundo del cacao y café peruano con KUNTIQ.",
+    "Descubre el mundo del cacao y café peruano con Agromia.",
 };
 
 export default function RootLayout({

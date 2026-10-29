@@ -9,12 +9,12 @@ const LanguageContext = createContext<{ language: Language; setLanguage: (langua
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [language, updateLanguage] = useState<Language>("es");
   useEffect(() => {
-    try { if (localStorage.getItem("kuntiq-language") === "en") updateLanguage("en"); } catch {}
+    try { if (localStorage.getItem("agromia-language") === "en") updateLanguage("en"); } catch {}
   }, []);
   useEffect(() => { document.documentElement.lang = language; }, [language]);
   function setLanguage(value: Language) {
     updateLanguage(value);
-    try { localStorage.setItem("kuntiq-language", value); } catch {}
+    try { localStorage.setItem("agromia-language", value); } catch {}
   }
   return <LanguageContext.Provider value={{ language, setLanguage }}>{children}</LanguageContext.Provider>;
 }
@@ -49,8 +49,8 @@ export function LanguageContent({ children }: { children: ReactNode }) {
     if (typeof element.props.href === "string" && element.props.href.startsWith("https://wa.me/")) {
       const url = new URL(element.props.href);
       const message = url.searchParams.get("text") ?? "";
-      if (message.startsWith("Hola KUNTIQ")) {
-        url.searchParams.set("text", "Hello KUNTIQ, I would like information about " + (message.includes("Academy:") ? "Academy: " + translate(message.split("Academy: ")[1].split(". ¿")[0]) + ". Please share upcoming dates, format, price and availability." : message.includes("experiencia") ? "this experience kit, its contents, price and availability." : "your products, prices and availability."));
+      if (message.startsWith("Hola Agromia")) {
+        url.searchParams.set("text", "Hello Agromia, I would like information about " + (message.includes("Academy:") ? "Academy: " + translate(message.split("Academy: ")[1].split(". ¿")[0]) + ". Please share upcoming dates, format, price and availability." : message.includes("experiencia") ? "this experience kit, its contents, price and availability." : "your products, prices and availability."));
         props.href = url.toString();
       }
     }

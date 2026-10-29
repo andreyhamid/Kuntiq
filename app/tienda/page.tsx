@@ -8,7 +8,7 @@ export default function TiendaPage() {
   return (
     <LanguageContent><main id="contenido" className="shop-page">
       <div className="shop-heading">
-        <span>KUNTIQ · PRODUCTOS</span>
+        <span>Agromia · PRODUCTOS</span>
 
         <h1>Nuestra tienda</h1>
 

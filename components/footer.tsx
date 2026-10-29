@@ -9,10 +9,10 @@ const socials = [
 export default function Footer() {
   return (
     <LanguageContent><footer className="footer">
-      <h3>KUNTIQ</h3>
+      <h3>Agromia</h3>
       <p>Cacao, café y experiencias sensoriales.</p>
       <p className="footer-location">Tienda virtual · San Miguel, Lima, Perú</p>
-      <div className="footer-socials" aria-label="Redes sociales de KUNTIQ">
+      <div className="footer-socials" aria-label="Redes sociales de Agromia">
         {socials.map((social) => (
           <div className="footer-social" key={social.name}>
             <svg viewBox="0 0 28 28" fill="currentColor" aria-hidden="true">
@@ -22,7 +22,7 @@ export default function Footer() {
           </div>
         ))}
       </div>
-      <p>© {new Date().getFullYear()} KUNTIQ.</p>
+      <p>© {new Date().getFullYear()} Agromia.</p>
     </footer></LanguageContent>
   );
 }

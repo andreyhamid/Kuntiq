@@ -1,4 +1,4 @@
-﻿
+
 export type Product = {
   id: number;
   slug: string;
@@ -19,7 +19,7 @@ export const products: Product[] = [
       "Cacao puro en polvo, presentación de 200 gramos. Ideal para preparar bebidas y recetas con cacao.",
     weight: "200 g",
     price: 15,
-    image: "/images/productos/cacao-polvo-200g.jpg",
+    image: "/images/productos/cacao-polvo-200g-agromia.png",
     category: "Cacao",
   },
   {
@@ -30,7 +30,7 @@ export const products: Product[] = [
       "Pasta de cacao al 100%, presentación de 90 gramos. Ideal para preparar chocolate caliente y otras recetas.",
     weight: "90 g",
     price: null,
-    image: "/images/productos/pasta-cacao-90g.jpg",
+    image: "/images/productos/pasta-cacao-90g-agromia.png",
     category: "Cacao",
   },
   {
@@ -41,7 +41,7 @@ export const products: Product[] = [
       "Cáscarilla de cacao para preparar infusiones y disfrutar del aroma del cacao.",
     weight: "Presentación por consultar",
     price: null,
-    image: "/images/productos/cascarilla-de-cacao.jpg",
+    image: "/images/productos/cascarilla-de-cacao-agromia.png",
     category: "Cacao",
   },
   {
@@ -52,7 +52,7 @@ export const products: Product[] = [
       "Chocolate con 55% de cacao para disfrutar solo o incorporar en tus recetas.",
     weight: "Presentación por consultar",
     price: null,
-    image: "/images/productos/chocolate-55.jpg",
+    image: "/images/productos/chocolate-55.png",
     category: "Chocolate",
   },
   {
@@ -63,7 +63,7 @@ export const products: Product[] = [
       "Manteca de cacao para la elaboración de chocolates, postres y otras preparaciones.",
     weight: "Presentación por consultar",
     price: null,
-    image: "/images/productos/manteca-de-cacao.jpg",
+    image: "/images/productos/manteca-de-cacao-agromia.png",
     category: "Cacao",
   },
 ];

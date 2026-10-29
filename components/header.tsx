@@ -4,6 +4,8 @@ import { LanguageContent, LanguageSelector } from "./language";
 
 
 import Link from "next/link";
+import Image from "next/image";
+import agromiaLogo from "../public/images/brand/agromia-cacao.png";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
@@ -39,7 +41,9 @@ export default function Header() {
         toggleRef.current?.focus();
       }
     }}>
-      <Link href="/" className="logo" onClick={() => setOpenPath(null)}>KUNTIQ</Link>
+      <Link href="/" className="logo" onClick={() => setOpenPath(null)}>
+        <Image src={agromiaLogo} alt="Agromia Cacao" className="brand-logo" priority sizes="(max-width: 480px) 150px, (max-width: 768px) 180px, 220px" />
+      </Link>
       <LanguageSelector />
       <button
         ref={toggleRef}

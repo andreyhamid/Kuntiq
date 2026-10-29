@@ -12,7 +12,7 @@ export default function ProductImage({ src, name }: { src: string; name: string 
     <LanguageContent><div className="product-image">
       {failedSrc === src ? (
         <div className="image-placeholder" role="img" aria-label={`Fotografía de ${name} no disponible`}>
-          <span aria-hidden="true">K</span>
+          <span aria-hidden="true">A</span>
           <strong>{name}</strong>
           <small>Fotografía próximamente</small>
         </div>

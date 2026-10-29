@@ -32,13 +32,13 @@ export default function HomeBanner() {
     return () => window.clearInterval(timer);
   }, [paused, hovered, focused, reducedMotion]);
   return (
-    <LanguageContent><section className="home-banner" aria-label="Paisajes y origen de KUNTIQ" aria-roledescription="carrusel" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} onFocusCapture={() => setFocused(true)} onBlurCapture={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setFocused(false); }}>
+    <LanguageContent><section className="home-banner" aria-label="Paisajes y origen de Agromia" aria-roledescription="carrusel" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} onFocusCapture={() => setFocused(true)} onBlurCapture={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setFocused(false); }}>
       <div className="banner-photos" aria-hidden="true">
         {slides.map((slide, index) => <div key={slide.image} className={`banner-photo${index === current ? " is-active" : ""}`} style={{ backgroundImage: `url("${slide.image}")`, backgroundPosition: slide.position }} />)}
       </div>
       <div className="banner-shade" />
       <div className="banner-content">
-        <span className="eyebrow">KUNTIQ · CACAO Y ORIGEN</span>
+        <span className="eyebrow">Agromia · CACAO Y ORIGEN</span>
         <h1>{slides[current].title}</h1>
         <p>{slides[current].text}</p>
 

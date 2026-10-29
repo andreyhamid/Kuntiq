@@ -12,7 +12,7 @@ Saltar al contenido|Skip to content
 QUIÉNES SOMOS|ABOUT US
 El origen nos inspira.|Our origins inspire us.
 El sabor nos conecta.|Flavor brings us together.
-Somos KUNTIQ, una tienda virtual de San Miguel, Lima, que nace de la pasión por el cacao, el café y las experiencias sensoriales.|We are KUNTIQ, an online shop based in San Miguel, Lima, born from a passion for cacao, coffee and sensory experiences.
+Somos Agromia, una tienda virtual de San Miguel, Lima, que nace de la pasión por el cacao, el café y las experiencias sensoriales.|We are Agromia, an online shop based in San Miguel, Lima, born from a passion for cacao, coffee and sensory experiences.
 Queremos acercarte a los aromas y sabores del cacao peruano, con productos para disfrutar en una bebida, una receta o una pausa en tu día.|Discover the aromas and flavors of Peruvian cacao, with products to enjoy in a drink, a recipe or a moment of rest.
 Conoce nuestra esencia →|Discover our essence →
 Cacao peruano|Peruvian cacao
@@ -29,7 +29,7 @@ Atendemos consultas y pedidos por WhatsApp.|We handle inquiries and orders via W
 Cacao, café y experiencias sensoriales.|Cacao, coffee and sensory experiences.
 Tienda virtual · San Miguel, Lima, Perú|Online shop · San Miguel, Lima, Peru
 San Miguel, Lima, Perú|San Miguel, Lima, Peru
-Redes sociales de KUNTIQ|KUNTIQ social media
+Redes sociales de Agromia|Agromia social media
 Próximamente|Coming soon
 Todo empieza en el origen.|It all starts at the source.
 Una invitación a descubrir los aromas y sabores del cacao peruano.|An invitation to discover the aromas and flavors of Peruvian cacao.
@@ -37,9 +37,9 @@ Inspirados en la naturaleza.|Inspired by nature.
 El campo nos inspira. El cacao nos reúne.|The countryside inspires us. Cacao brings us together.
 Despierta tus sentidos.|Awaken your senses.
 Encuentra tu próxima pausa favorita en nuestra tienda virtual.|Find your next favorite moment of rest in our online shop.
-Paisajes y origen de KUNTIQ|KUNTIQ landscapes and origins
+Paisajes y origen de Agromia|Agromia landscapes and origins
 carrusel|carousel
-KUNTIQ · CACAO Y ORIGEN|KUNTIQ · CACAO AND ORIGINS
+Agromia · CACAO Y ORIGEN|Agromia · CACAO AND ORIGINS
 Paisajes de ejemplo · Próximamente nuestras fotos del campo|Sample landscapes · Our countryside photos coming soon
 Foto anterior|Previous photo
 Foto siguiente|Next photo
@@ -57,8 +57,8 @@ Descubrir producto →|Discover product →
 Consultar precio|Ask for price
 Ver producto|View product
 Fotografía próximamente|Photo coming soon
-Consultar a KUNTIQ por WhatsApp (abre en otra pestaña)|Contact KUNTIQ on WhatsApp (opens in a new tab)
-KUNTIQ · PRODUCTOS|KUNTIQ · PRODUCTS
+Consultar a Agromia por WhatsApp (abre en otra pestaña)|Contact Agromia on WhatsApp (opens in a new tab)
+Agromia · PRODUCTOS|Agromia · PRODUCTS
 Nuestra tienda|Our shop
 Descubre el cacao en su esencia más pura.|Discover cacao in its purest form.
 Cacao en polvo 100%|100% cacao powder
@@ -75,7 +75,7 @@ Presentación por consultar|Ask about pack sizes
 ← Volver a la tienda|← Back to shop
 Presentación:|Pack size:
 Consultar disponibilidad|Check availability
-KUNTIQ · CONTACTO|KUNTIQ · CONTACT
+Agromia · CONTACTO|Agromia · CONTACT
 Conversemos.|Let’s talk.
 Somos una tienda virtual ubicada en San Miguel, Lima, Perú.|We are an online shop based in San Miguel, Lima, Peru.
 Escríbenos al|Message us at
@@ -83,9 +83,9 @@ para consultar productos, precios y disponibilidad, o coordinar tu pedido.|for p
 Escribir por WhatsApp ↗|Message us on WhatsApp ↗
 Nuestro origen|Our origins
 Nuestra esencia|Our essence
-KUNTIQ nace de nuestra pasión por el cacao, el café y las experiencias sensoriales.|KUNTIQ was born from our passion for cacao, coffee and sensory experiences.
+Agromia nace de nuestra pasión por el cacao, el café y las experiencias sensoriales.|Agromia was born from our passion for cacao, coffee and sensory experiences.
 Queremos compartir los sabores y aromas del cacao y café peruano.|We want to share the flavors and aromas of Peruvian cacao and coffee.
-KUNTIQ · REGALOS|KUNTIQ · GIFTS
+Agromia · REGALOS|Agromia · GIFTS
 Detalles para compartir.|Thoughtful gifts to share.
 Un momento de cacao también puede ser un regalo.|A moment of cacao can be a gift, too.
 Packs de ejemplo. Consulta la composición, presentación y disponibilidad por WhatsApp.|Sample gift packs. Ask about contents, pack sizes and availability via WhatsApp.
@@ -99,18 +99,18 @@ Presentaciones por confirmar|Pack sizes to be confirmed
 Pack de regalo|Gift pack
 ← Volver a regalos|← Back to gifts
 Consultar este pack por WhatsApp ↗|Ask about this pack on WhatsApp ↗
-KUNTIQ · MERCHANDISING|KUNTIQ · MERCHANDISING
+Agromia · MERCHANDISING|Agromia · MERCHANDISING
 La esencia también se lleva.|Take our essence with you.
 Polos, tazas, bolsos y detalles artesanales para acompañar tus momentos.|T-shirts, mugs, bags and handmade pieces for your everyday moments.
 Colección en preparación. Modelos, materiales, precios y disponibilidad por confirmar.|Collection in preparation. Designs, materials, prices and availability to be confirmed.
-Polo KUNTIQ|KUNTIQ T-shirt
-Taza KUNTIQ|KUNTIQ mug
-Bolso KUNTIQ|KUNTIQ bag
+Polo Agromia|Agromia T-shirt
+Taza Agromia|Agromia mug
+Bolso Agromia|Agromia bag
 Taza artesanal|Handcrafted mug
 Piezas artesanales|Handcrafted pieces
 Lleva contigo nuestra esencia. Consulta diseños, colores y tallas para elegir tu polo.|Take our essence with you. Ask about designs, colors and sizes to choose your T-shirt.
 Una compañera para tu chocolate caliente o tu infusión de cáscarilla. Consulta los modelos disponibles.|A companion for your hot chocolate or cacao husk infusion. Ask about available designs.
-Un bolso para acompañarte en tus días y llevar un poco de KUNTIQ a donde vayas.|An everyday bag to take a little KUNTIQ wherever you go.
+Un bolso para acompañarte en tus días y llevar un poco de Agromia a donde vayas.|An everyday bag to take a little Agromia wherever you go.
 Una pieza de inspiración artesanal para disfrutar tus bebidas con calma. Consulta acabados y disponibilidad.|A craft-inspired piece for enjoying your drinks at leisure. Ask about finishes and availability.
 Objetos para acompañar tus rituales de cacao. Escríbenos para conocer las piezas, materiales y acabados de la colección.|Objects for your cacao rituals. Contact us to discover the collection’s pieces, materials and finishes.
 Tallas por consultar|Ask about sizes
@@ -125,7 +125,7 @@ Artesanía|Crafts
 ← Volver a Merchandising|← Back to Merchandising
 Colección en preparación. Consulta los detalles antes de realizar tu pedido.|Collection in preparation. Confirm the details before placing your order.
 Consultar por WhatsApp ↗|Ask us on WhatsApp ↗
-KUNTIQ · EXPERIENCIA|KUNTIQ · EXPERIENCE
+Agromia · EXPERIENCIA|Agromia · EXPERIENCE
 No solo lo disfrutes.|Enjoy it.
 Créalo tú.|Create it yourself.
 De tus manos nace algo especial. Explora el cacao, transforma sus ingredientes y construye tu propio momento con nuestros kits.|Create something special with your own hands. Explore cacao, transform its ingredients and make your own moment with our kits.
@@ -145,7 +145,7 @@ Detalles antes de elegir|Details before choosing
 Quiero crear con este kit ↗|I want to create with this kit ↗
 OBJETOS CON ESENCIA|OBJECTS WITH ESSENCE
 Completa tu ritual.|Complete your ritual.
-Una taza artesanal, un bolso o un polo para llevar contigo un poco de KUNTIQ.|A handcrafted mug, a bag or a T-shirt to take a little KUNTIQ with you.
+Una taza artesanal, un bolso o un polo para llevar contigo un poco de Agromia.|A handcrafted mug, a bag or a T-shirt to take a little Agromia with you.
 Descubrir Merchandising →|Discover Merchandising →
 Crea tu chocolate|Create your chocolate
 MOLER · MOLDEAR · COMPARTIR|GRIND · MOLD · SHARE
@@ -182,7 +182,7 @@ Descubre los aromas|Discover the aromas
 Elige bolsita o infusor|Choose a bag or infuser
 Prepara tu pausa|Prepare your moment of rest
 Consulta cantidad de cáscarilla, modelo de hervidora o tetera y formato preferido. Se trata de una infusión de cacao.|Ask about the quantity of cacao husks, kettle or teapot model and preferred format. This is a cacao infusion.
-KUNTIQ · RECETAS|KUNTIQ · RECIPES
+Agromia · RECETAS|Agromia · RECIPES
 El cacao también se crea.|Create with cacao.
 De una taza caliente a un postre para compartir. Elige una receta y empieza.|From a warm cup to a dessert to share. Choose a recipe and get started.
 Ir a una receta|Go to a recipe
@@ -235,6 +235,21 @@ Mezcla desde el centro hasta obtener una crema uniforme. Añade la mantequilla y
 Tapa y refrigera al menos 2 horas, hasta que la mezcla tenga consistencia para formar bolitas.|Cover and refrigerate for at least 2 hours until firm enough to roll into balls.
 Forma 12 trufas con ayuda de una cucharita y pásalas por cacao en polvo. Consérvalas refrigeradas.|Use a teaspoon to shape 12 truffles and roll them in cacao powder. Keep refrigerated.
 Si la mezcla se ablanda mientras formas las trufas, vuelve a refrigerarla unos minutos.|If the mixture softens while shaping the truffles, refrigerate it again for a few minutes.
+Del origen a tus manos|From the source to your hands
+Una experiencia para tus sentidos|An experience for your senses
+Conecta con la naturaleza|Connect with nature
+Descubre aromas y texturas|Discover aromas and textures
+Crea algo con tus manos|Create something with your hands
+TRES FORMAS DE EXPLORAR EL CACAO|THREE WAYS TO EXPLORE CACAO
+Un ingrediente. Muchas formas de crear.|One ingredient. Many ways to create.
+Elige el ritual que más se parece a ti.|Choose the ritual that feels most like you.
+Elegir un kit|Choose a kit
+Jabón|Soap
+Infusión|Infusion
+Imagen referencial del kit|Illustrative kit image
+Kit de chocolate con cacao, molino manual, moldes, empaques y sellador entre hojas verdes|Chocolate kit with cacao, a hand grinder, molds, packaging and a sealer among green leaves
+Kit de jabón con manteca de cacao, base preparada, molde y jabones artesanales en un entorno natural|Soap kit with cocoa butter, prepared base, a mold and handmade soaps in a natural setting
+Kit de infusión con tetera, cáscarilla de cacao, taza y bolsitas filtrantes rodeados de vegetación|Infusion kit with a teapot, cacao husks, a cup and filter bags surrounded by greenery
 `.trim().split("\n").map(line => { const index = line.indexOf("|"); return [line.slice(0, index), line.slice(index + 1)]; }));
 
 Object.assign(english, Object.fromEntries(`
@@ -274,4 +289,19 @@ APRENDER ES PARTE DEL VIAJE|LEARNING IS PART OF THE JOURNEY
 Tu curiosidad es el punto de partida.|Your curiosity is the starting point.
 No necesitas experiencia previa para empezar a descubrir. Escríbenos y te ayudamos a elegir una propuesta según tus intereses y el nivel de cada actividad.|You don’t need prior experience to start discovering. Contact us and we will help you choose an activity based on your interests and its level.
 Conversemos sobre Academy →|Let’s talk about Academy →
+Del origen a tus manos|From the source to your hands
+Una experiencia para tus sentidos|An experience for your senses
+Conecta con la naturaleza|Connect with nature
+Descubre aromas y texturas|Discover aromas and textures
+Crea algo con tus manos|Create something with your hands
+TRES FORMAS DE EXPLORAR EL CACAO|THREE WAYS TO EXPLORE CACAO
+Un ingrediente. Muchas formas de crear.|One ingredient. Many ways to create.
+Elige el ritual que más se parece a ti.|Choose the ritual that feels most like you.
+Elegir un kit|Choose a kit
+Jabón|Soap
+Infusión|Infusion
+Imagen referencial del kit|Illustrative kit image
+Kit de chocolate con cacao, molino manual, moldes, empaques y sellador entre hojas verdes|Chocolate kit with cacao, a hand grinder, molds, packaging and a sealer among green leaves
+Kit de jabón con manteca de cacao, base preparada, molde y jabones artesanales en un entorno natural|Soap kit with cocoa butter, prepared base, a mold and handmade soaps in a natural setting
+Kit de infusión con tetera, cáscarilla de cacao, taza y bolsitas filtrantes rodeados de vegetación|Infusion kit with a teapot, cacao husks, a cup and filter bags surrounded by greenery
 `.trim().split("\n").map(line => { const index = line.indexOf("|"); return [line.slice(0, index), line.slice(index + 1)]; })));

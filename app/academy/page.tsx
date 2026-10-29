@@ -1,7 +1,7 @@
-﻿import { LanguageContent } from "../../components/language";
+import { LanguageContent } from "../../components/language";
 
 export const metadata = {
-  title: "Academy | KUNTIQ",
+  title: "Academy | Agromia",
   description: "Aprende sobre cacao y café con cursos presenciales y virtuales, talleres prácticos y experiencias de cata.",
 };
 
@@ -15,7 +15,7 @@ const formats = [
 export default function AcademyPage() {
   return <LanguageContent><main id="contenido" className="academy-page">
     <section className="experience-hero">
-      <span className="eyebrow">KUNTIQ · ACADEMY</span>
+      <span className="eyebrow">Agromia · ACADEMY</span>
       <h1>El origen se descubre.<br />El conocimiento se comparte.</h1>
       <p>Un espacio para aprender, crear y despertar tus sentidos alrededor del cacao y el café. Encuentra una forma de explorar que conecte contigo.</p>
       <a className="btn-primary" href="#formacion">Explora Academy ↓</a>
@@ -31,7 +31,7 @@ export default function AcademyPage() {
         <h3>{format.intro}</h3>
         <p>{format.description}</p>
         <ul>{format.topics.map(topic => <li key={topic}>{topic}</li>)}</ul>
-        <a className="product-button" href={`https://wa.me/51953494818?text=${encodeURIComponent(`Hola KUNTIQ, quisiera información sobre Academy: ${format.title}. ¿Cuáles son las próximas fechas, modalidad, precio y disponibilidad?`)}`} target="_blank" rel="noopener noreferrer">Consultar esta modalidad ↗</a>
+        <a className="product-button" href={`https://wa.me/51953494818?text=${encodeURIComponent(`Hola Agromia, quisiera información sobre Academy: ${format.title}. ¿Cuáles son las próximas fechas, modalidad, precio y disponibilidad?`)}`} target="_blank" rel="noopener noreferrer">Consultar esta modalidad ↗</a>
       </article>)}
     </section>
     <section className="experience-merch"><span className="eyebrow">APRENDER ES PARTE DEL VIAJE</span><h2>Tu curiosidad es el punto de partida.</h2><p>No necesitas experiencia previa para empezar a descubrir. Escríbenos y te ayudamos a elegir una propuesta según tus intereses y el nivel de cada actividad.</p><a className="product-button" href="/contacto">Conversemos sobre Academy →</a></section>

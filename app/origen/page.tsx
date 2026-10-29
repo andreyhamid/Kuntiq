@@ -7,7 +7,7 @@ export default function OrigenPage() {
       <h1>Nuestro origen</h1>
 
       <p>
-        KUNTIQ nace de nuestra pasión por el cacao,
+        Agromia nace de nuestra pasión por el cacao,
         el café y las experiencias sensoriales.
       </p>
 

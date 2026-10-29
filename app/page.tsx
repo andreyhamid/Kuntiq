@@ -11,7 +11,7 @@ export default function Home() {
       <HomeBanner />
       <section id="quienes-somos" className="home-about">
         <div><span className="eyebrow">QUIÉNES SOMOS</span><h2>El origen nos inspira.<br />El sabor nos conecta.</h2></div>
-        <div className="about-copy"><p>Somos KUNTIQ, una tienda virtual de San Miguel, Lima, que nace de la pasión por el cacao, el café y las experiencias sensoriales.</p><p>Queremos acercarte a los aromas y sabores del cacao peruano, con productos para disfrutar en una bebida, una receta o una pausa en tu día.</p><Link href="/origen" className="text-link">Conoce nuestra esencia →</Link><div className="about-tags"><span>Cacao peruano</span><span>Tienda virtual</span><span>San Miguel · Lima</span></div></div>
+        <div className="about-copy"><p>Somos Agromia, una tienda virtual de San Miguel, Lima, que nace de la pasión por el cacao, el café y las experiencias sensoriales.</p><p>Queremos acercarte a los aromas y sabores del cacao peruano, con productos para disfrutar en una bebida, una receta o una pausa en tu día.</p><Link href="/origen" className="text-link">Conoce nuestra esencia →</Link><div className="about-tags"><span>Cacao peruano</span><span>Tienda virtual</span><span>San Miguel · Lima</span></div></div>
       </section>
       <ProductRibbon />
       <section id="contacto" className="home-contact" aria-labelledby="contact-title">
